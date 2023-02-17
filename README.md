@@ -1,0 +1,2 @@
+# pythonCV
+Learn python + openCV
