@@ -1,4 +1,4 @@
 # pythonCV
-Learn python + openCV
+Learn Python + OpenCV
 
 AI learning
